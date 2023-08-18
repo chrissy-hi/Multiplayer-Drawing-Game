@@ -5,7 +5,7 @@ Multiplayer drawing game developed using TypeScript, HTML, Tailwind CSS and Sock
 This game allows playing and messaging to occur simultaneously across connected clients. Users are able to join a room, set their username, message other users and draw on a canvas with other users. After the users have finished drawing they are able to save their image as a pdf or clear their individual canvas.  
 
 Features that will be added:<br/> 
-*dark mode
+*A button to toggle between light and dark mode
 
 ## Video Walkthrough
 
